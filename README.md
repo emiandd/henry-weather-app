@@ -2,4 +2,4 @@
 My first app created with React Js 
 https://henryweatherappemiandd.netlify.app/
 
-![henry-weather-app - screenshot - desktop version](https://github.com/emiandd/henry-weather-app/blob/main/build/static/media/Screenshot%20Henry%20Weather%20Desktop%20Version.png?raw=true)
+![henry-weather-app - screenshot - desktop version](https://raw.githubusercontent.com/emiandd/henry-weather-app/691f07dd81b08ddc9cb245b45eaa64abf7459569/src/screenshot-henry-weather-desktop-version.png)
